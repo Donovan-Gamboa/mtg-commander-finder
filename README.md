@@ -6,7 +6,7 @@ The app fetches a random legendary creature from the [Scryfall API](https://scry
 ---
 
 ## 🚀 Live Version
-[**View the App Here**](https://Donovan-Gamboa.github.io/mtg-random-commander-finder/)  
+[**View the App Here**](https://donovan-gamboa.github.io/mtg-random-commander-finder/)  
 
 ---
 
@@ -20,7 +20,7 @@ The app fetches a random legendary creature from the [Scryfall API](https://scry
 ---
 
 ## 🕹️ How to Use
-1. Open the [live application](https://Donovan-Gamboa.github.io/mtg-random-commander-finder/).  
+1. Open the [live application](https://donovan-gamboa.github.io/mtg-random-commander-finder/).  
 2. Click **Randomize** to get your first commander.  
 3. To filter by set:
    - Use the **From Set** and **To Set** dropdown menus.  
