@@ -7,7 +7,6 @@ The app fetches a random legendary creature from the [Scryfall API](https://scry
 
 ## 🚀 Live Version
 [**View the App Here**](https://Donovan-Gamboa.github.io/mtg-random-commander-finder/)  
-*(Replace `your-username` with your actual GitHub username.)*
 
 ---
 
@@ -38,4 +37,4 @@ The app fetches a random legendary creature from the [Scryfall API](https://scry
 ---
 
 ## 📜 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Donovan Gamboa]
